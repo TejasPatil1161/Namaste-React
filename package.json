@@ -1,0 +1,21 @@
+{
+  "name": "namstereact",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TejasPatil1161/namasteReact/commit/c83b36ffdafcddc24cb5ac413bf2ae55688a69ec"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Tejas Patil",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
